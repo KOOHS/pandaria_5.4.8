@@ -8,7 +8,7 @@
 + MySQL = 5.7
 + CMake ≥ 3.14 (latest stable recommended) 
 + OpenSSL = 1.x.x
-+ Boost ≥ 1.70 (latest stable recommended)
++ Boost ≥ 1.74 (latest stable recommended)
 + Windows SDK version 10
 + MS Visual Studio (Community) ≥ 16.4 (2019) (Desktop) (Not previews) 
 + GCC = 4.7.2 (Linux only)
