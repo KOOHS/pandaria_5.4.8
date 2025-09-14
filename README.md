@@ -7,10 +7,10 @@
 + ACE = 7.0.0 (included for Windows) 
 + MySQL = 5.7
 + CMake ≥ 3.14 (latest stable recommended) 
-+ OpenSSL = 1.x.x
-+ Boost ≥ 1.74 (latest stable recommended)
++ OpenSSL = 3.1.8
++ Boost ≥ 1.86 (latest stable recommended)
 + Windows SDK version 10
-+ MS Visual Studio (Community) ≥ 16.4 (2019) (Desktop) (Not previews) 
++ MS Visual Studio (Community) ≥ 16.4 (2022) (Desktop) (Not previews) 
 + GCC = 4.7.2 (Linux only)
 
 ## Copyright
